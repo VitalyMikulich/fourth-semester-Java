@@ -3,10 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="8a76e496-e58d-415a-97f6-aa0d35f449c9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../Lab3a/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab3a/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab3a/out/production/Lab3a/by/bsu/lab3a/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab3a/out/production/Lab3a/by/bsu/lab3a/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Lab3c/by/bsu/lab3c/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab3c/by/bsu/lab3c/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/bsu/lab3c/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/bsu/lab3c/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -39,8 +37,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/by/bsu/lab3c/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="424">
-              <caret line="72" lean-forward="true" selection-start-line="72" selection-end-line="72" />
+            <state relative-caret-position="284">
+              <caret line="65" column="34" selection-start-line="65" selection-start-column="34" selection-end-line="65" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -67,8 +65,9 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-10" />
-    <option name="width" value="980" />
-    <option name="height" value="1040" />
+    <option name="y" value="-10" />
+    <option name="width" value="1620" />
+    <option name="height" value="870" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -77,7 +76,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -100,13 +98,14 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552630501310" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552725220466" />
+    <property name="last_opened_file_path" value="C:/VladProga/JavaLabs/Java-labs" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -158,16 +157,19 @@
       <workItem from="1552125318619" duration="144000" />
       <workItem from="1552628236789" duration="1611000" />
       <workItem from="1552630015335" duration="618000" />
+      <workItem from="1552665695090" duration="1789000" />
+      <workItem from="1552724534135" duration="881000" />
+      <workItem from="1552926293054" duration="26000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7088000" />
+    <option name="totallyTimeSpent" value="9784000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2671141" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27919462" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -292,8 +294,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/by/bsu/lab3c/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="424">
-          <caret line="72" lean-forward="true" selection-start-line="72" selection-end-line="72" />
+        <state relative-caret-position="284">
+          <caret line="65" column="34" selection-start-line="65" selection-start-column="34" selection-end-line="65" selection-end-column="34" />
         </state>
       </provider>
     </entry>
