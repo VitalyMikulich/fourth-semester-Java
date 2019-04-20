@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42b7a82e-5516-4082-bc9d-4524997930e7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../lab4a/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab4a/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab3a/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab3a/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab3c/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab3c/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab3c/out/production/Lab3c/by/bsu/lab3c/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab3c/out/production/Lab3c/by/bsu/lab3c/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,10 +16,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/by/bsu/lab5/ArtExhibition.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
+            <state relative-caret-position="940">
               <caret line="57" selection-start-line="57" selection-end-line="57" />
               <folding>
-                <element signature="e#470#471#0" expanded="true" />
+                <element signature="e#469#470#0" expanded="true" />
                 <element signature="e#513#514#0" expanded="true" />
               </folding>
             </state>
@@ -33,11 +29,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/by/bsu/lab5/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="421">
+            <state relative-caret-position="424">
               <caret line="23" column="14" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
               <folding>
                 <element signature="e#816#817#0" expanded="true" />
-                <element signature="e#853#854#0" expanded="true" />
+                <element signature="e#889#890#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -64,9 +60,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
-    <option name="width" value="978" />
-    <option name="height" value="1039" />
+    <option name="x" value="-10" />
+    <option name="width" value="980" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -87,8 +83,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -145,17 +141,20 @@
       <workItem from="1555077344941" duration="27000" />
       <workItem from="1555077680391" duration="4152000" />
       <workItem from="1555143088997" duration="4425000" />
+      <workItem from="1555521699266" duration="598000" />
+      <workItem from="1555606388258" duration="597000" />
+      <workItem from="1555673633399" duration="35000" />
+      <workItem from="1555690953352" duration="299000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8604000" />
+    <option name="totallyTimeSpent" value="10133000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25637585" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27114093" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -192,10 +191,10 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/by/bsu/lab5/ArtExhibition.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
+        <state relative-caret-position="940">
           <caret line="57" selection-start-line="57" selection-end-line="57" />
           <folding>
-            <element signature="e#470#471#0" expanded="true" />
+            <element signature="e#469#470#0" expanded="true" />
             <element signature="e#513#514#0" expanded="true" />
           </folding>
         </state>
@@ -203,11 +202,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/by/bsu/lab5/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="421">
+        <state relative-caret-position="424">
           <caret line="23" column="14" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
           <folding>
             <element signature="e#816#817#0" expanded="true" />
-            <element signature="e#853#854#0" expanded="true" />
+            <element signature="e#889#890#0" expanded="true" />
           </folding>
         </state>
       </provider>
