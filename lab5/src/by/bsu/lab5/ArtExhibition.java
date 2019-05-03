@@ -27,7 +27,7 @@ public class ArtExhibition {
         System.out.println("Название выставки: " + getNameOfExhibition() + "|" + "Время проведения: " + getDurOfExhibition());
     }
 
-    public static class  ArtObject {
+    public class  ArtObject {
         private String name;
         private String author;
         private String date;
@@ -56,13 +56,13 @@ public class ArtExhibition {
     }
 
 
-//    public final void init() {
-//        pic1 = new ArtObject("Восход солнца", "Айвазовский", "10.04.2019 - 15.04.2019");
-//        pic2 = new ArtObject("Пик солнца", "Шагал", "12.04.2019 - 17.04.2019");
-//        pic3 = new ArtObject("Закат солнца", "Пикассо", "09.04.2019 - 11.04.2019");
-//
-//        pic1.show();
-//        pic2.show();
-//        pic3.show();
-//    }
+    public final void init() {
+        pic1 = new ArtObject("Восход солнца", "Айвазовский", "10.04.2019 - 15.04.2019");
+        pic2 = new ArtObject("Пик солнца", "Шагал", "12.04.2019 - 17.04.2019");
+        pic3 = new ArtObject("Закат солнца", "Пикассо", "09.04.2019 - 11.04.2019");
+
+        pic1.show();
+        pic2.show();
+        pic3.show();
+    }
 }
